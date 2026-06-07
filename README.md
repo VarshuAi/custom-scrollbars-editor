@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Customize scrollbar pseudo-elements exporting responsive values.
+  name: custom-scrollbars-editor version: 1.0 type: Repository author: VarshuAi description: >   Customize scrollbar pseudo-elements exporting responsive values. primary_tech: CSS
 primary_tech: CSS
 ```
 
